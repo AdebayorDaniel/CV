@@ -1,2 +1,2 @@
 # CV
-Html CV assignment on roadmap 
+Single page cv
